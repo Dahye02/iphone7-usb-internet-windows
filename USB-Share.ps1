@@ -1,4 +1,4 @@
-# USB Share - iPhone USB reverse tethering on Windows.
+﻿# USB Share - iPhone USB reverse tethering on Windows.
 #
 #   USB-Share.ps1              plug-and-go (auto) - default
 #   USB-Share.ps1 menu         interactive menu
@@ -382,5 +382,3 @@ catch {
     Log ERR $_.Exception.Message
     if ($script:ShowDebug) { Write-Host $_.ScriptStackTrace -ForegroundColor DarkGray }
 }
-
-
