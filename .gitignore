@@ -1,0 +1,7 @@
+libusb-win32/
+libusb0.dll
+__pycache__/
+*.log
+*.reg
+*.zip
+.venv/
