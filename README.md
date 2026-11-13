@@ -35,7 +35,8 @@
 ```
 
 
-## 라이선스와 의존성
+
+## 라이선스
 프로젝트 코드는 [MIT License](LICENSE)를 따릅니다. 원저자: Baksa (0xbaksa), 2026.
 
 드라이버 및 DLL 바이너리는 이 저장소에 포함하지 않습니다. `Setup.ps1`이 libusb-win32 1.4.0.2 공식 릴리스를 내려받고 SHA-256과 카탈로그 서명을 확인합니다. libusb-win32의 라이선스와 배포 정보는 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)를 참고하세요.
